@@ -5,7 +5,5 @@
 }, {
     "site": "https://othersite2.com"
 }, {
-    "site": "https://geeksforgeeks.org"
-}, {
     "site": "https://WDN.com"
 }]
